@@ -1,1 +1,306 @@
-<mxfile host="app.diagrams.net" modified="2022-02-16T02:53:41.067Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" version="16.5.6" etag="y0nQXOzer_grdlC3kFom" type="github"><diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">7VpNc5swEP01PnYGEHbcY+PmY6ZOJjM+9KwgBdQK5BHCmPz6SkYyn8EkxglOmkvQYxHSe6vdlfAELMLtDYfr4I4hTCeOhbYT8HPiOLbjAPlPIVmOzNxpDvicIG1UACvyjDVoaTQhCMcVQ8EYFWRdBT0WRdgTFQxyztKq2ROj1beuoY8bwMqDtIn+JkgEOTp3Lgr8FhM/MG+2Z9/zOyE0xnomcQARS0sQuJqABWdM5FfhdoGpIs/wkj93/cLd/cA4jkSfB9D9Nrv/deFdzB+X6SZG+O52+s3Wo91AmugZP0h69YhFZmiIUxJSGMnWZSBCKkFbXnoBoWgJM5aoEcQCen9N65LjWIr5YIZn16A7qFzEUv0xTp5ZJCDVgOyHC+0JTtVipV6hzZrz15RsMBd4W4I0HzeYhVjwTJrs3VNrk9XaaSG1O9VYUJIZzDQItXv5+74LBeSFFuEVghjHKgnSEAMj6aK6ybgImM8iSK8K9JKzJEIYaaYKmyVjay3GHyxEplmGiWBVZRGMg93zqoEj9EMtJdmM2M4HJHJNKH1RiU5fi1nCPdzFgasXOuQ+7urRmeWGipBOvTmmUJBNdU0Prh2wP0KqkjoehXFMvIpA9ikEmvcUCFjjEmj6X6AaI+64BJp/FYFmfQUaPMTtHpXzhVnJYM1IJOJSzw8KKGXKeTVTArdWbNTsXavTXl7kIyhcZT+VI3Kn1cidS1WzOFYzMLcXNB2lx9tyXf9apK30AC2lx75GGb70mI6i9OjJ8L6sPrjUQN9qYlyx0Iy7Uw5K5UZI0Z4GRODVGu6oSOVe7ChS+7utW13nbosXtzixezIfdg+TVvXQA8Q9ycV/DUNC1QRvMd1gQTyob2gfth3dXjDK+O4lwNr9SRxS4kcqs0jmMT+lFPXdDGhqMW/R4mRbGdDHgc8pu/cOOYb5w9ndGVXIAc0E+mVWTz2Sffjqcc4h/O8PQsYS/+0Ga7oEbLI32hKw6zTqnUvC5vHgmYdwsxMYbINmttojCeFm3J8ghB99nPvRIdy4RqcWAQsfk/hT6eCMLSk0U6lOCuDskkIrme+bFMA4PlEMmBTM+A/W9X0/TAx/anecYp9nV2yW8pvr+pai6n3r+j4JevxJ4dU61HcKLcl5oKQgm8VX9fxsufhtArj6Bw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-16T05:27:32.843Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="OlEdxxcA9Jdx1cD7x9wd" version="16.5.6" type="github">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-19" value="資料處理" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;" parent="1" vertex="1">
+          <mxGeometry x="60" y="110" width="740" height="440" as="geometry">
+            <mxRectangle x="120" y="120" width="30" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-20" value="資料蒐集" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
+          <mxGeometry x="20" width="720" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="qWPYMGaNYMqabZcvKu73-11" value="&lt;div&gt;&lt;span&gt;A. 利用攝影鏡頭進行人臉辨識，並註冊及建立會員資料庫。&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;B. 利用COVID19實名制登錄註冊及建立會員資料庫並記錄人臉&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
+          <mxGeometry x="30" y="20" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qWPYMGaNYMqabZcvKu73-14" value="&lt;div&gt;&lt;span&gt;A. 利用店內商品照片辨識建立商品資料庫。&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;B. 利用全國條碼商品資料儲存庫及店內商品建立商品資料庫。&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
+          <mxGeometry x="194" y="20" width="126" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qWPYMGaNYMqabZcvKu73-20" value="審視【商品銷售佔比、來客數與消費金額等資料】是否有不同於平均資料的極端值並將該店視為某特定分野特化型之分店" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
+          <mxGeometry x="360" y="20" width="126" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-21" value="資料庫建構" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
+          <mxGeometry x="20" y="160" width="720" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qWPYMGaNYMqabZcvKu73-12" value="會員資料庫" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
+          <mxGeometry x="50" y="20" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qWPYMGaNYMqabZcvKu73-18" value="商品資料庫" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
+          <mxGeometry x="217" y="20" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qWPYMGaNYMqabZcvKu73-30" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-21" target="qWPYMGaNYMqabZcvKu73-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="160" as="sourcePoint" />
+            <mxPoint x="217" y="70" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="180" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qWPYMGaNYMqabZcvKu73-66" value="沒有餘力的話不要碰很可怕的廣告行銷資料庫" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;dashed=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
+          <mxGeometry x="500" y="15" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="資料分析" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
+          <mxGeometry x="20" y="280" width="720" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="qWPYMGaNYMqabZcvKu73-24" value="&lt;div&gt;根據來店頻率擷取出常客&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
+          <mxGeometry x="30" y="20" width="136" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qWPYMGaNYMqabZcvKu73-26" value="&lt;div&gt;根據商品銷售狀況與人流、消費解析消費者描述&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
+          <mxGeometry x="189" y="15" width="136" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qWPYMGaNYMqabZcvKu73-28" value="解析消費者描述、購買習慣與潛在需求。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
+          <mxGeometry x="69" y="90" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qWPYMGaNYMqabZcvKu73-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-22" source="qWPYMGaNYMqabZcvKu73-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="140" as="sourcePoint" />
+            <mxPoint x="180" y="90" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="180" y="30" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qWPYMGaNYMqabZcvKu73-58" value="&lt;div&gt;分析人流尖峰時段與該時刻商品銷售量高之品項。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
+          <mxGeometry x="370" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qWPYMGaNYMqabZcvKu73-63" value="&lt;div&gt;依據店家所在位置客群消費之特殊性評估高銷售量或高收益商品等提高獲益之模式&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
+          <mxGeometry x="590" y="45" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qWPYMGaNYMqabZcvKu73-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-19" source="qWPYMGaNYMqabZcvKu73-11" target="qWPYMGaNYMqabZcvKu73-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="240" as="sourcePoint" />
+            <mxPoint x="200" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qWPYMGaNYMqabZcvKu73-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-19" source="qWPYMGaNYMqabZcvKu73-14" target="qWPYMGaNYMqabZcvKu73-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="150" as="sourcePoint" />
+            <mxPoint x="120" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qWPYMGaNYMqabZcvKu73-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-19" target="qWPYMGaNYMqabZcvKu73-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="118" y="260" as="sourcePoint" />
+            <mxPoint x="220" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qWPYMGaNYMqabZcvKu73-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-19" source="qWPYMGaNYMqabZcvKu73-18" target="qWPYMGaNYMqabZcvKu73-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="420" as="sourcePoint" />
+            <mxPoint x="380" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qWPYMGaNYMqabZcvKu73-64" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-19" source="qWPYMGaNYMqabZcvKu73-20" target="qWPYMGaNYMqabZcvKu73-63">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="420" as="sourcePoint" />
+            <mxPoint x="320" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="670" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qWPYMGaNYMqabZcvKu73-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qWPYMGaNYMqabZcvKu73-1" target="qWPYMGaNYMqabZcvKu73-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qWPYMGaNYMqabZcvKu73-1" value="設置無人櫃台於出入口處並作為服務主機" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="109" y="20" width="121" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qWPYMGaNYMqabZcvKu73-6" value="配置攝影鏡頭" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qWPYMGaNYMqabZcvKu73-8" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="qWPYMGaNYMqabZcvKu73-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="50" as="sourcePoint" />
+            <mxPoint x="60" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qWPYMGaNYMqabZcvKu73-15" value="https://www.gs1tw.org/twct/web/ecatalogue.jsp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="207" y="80" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qWPYMGaNYMqabZcvKu73-17" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="qWPYMGaNYMqabZcvKu73-14" target="qWPYMGaNYMqabZcvKu73-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="120" as="sourcePoint" />
+            <mxPoint x="360" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qWPYMGaNYMqabZcvKu73-21" value="https://data.gov.tw/dataset/145234&lt;br&gt;https://data.gov.tw/dataset/145233" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="403" y="35" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qWPYMGaNYMqabZcvKu73-22" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qWPYMGaNYMqabZcvKu73-20" target="qWPYMGaNYMqabZcvKu73-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="340" as="sourcePoint" />
+            <mxPoint x="490" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qWPYMGaNYMqabZcvKu73-23" value="功能化" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="620" width="740" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="qWPYMGaNYMqabZcvKu73-40" value="利用Airflow或其他套件建立可排程定期執行上述工作且誰都能操作的APP，以建立一套各分店皆可直接使用的標準化系統增加可用價值。" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeWidth=3;" vertex="1" parent="qWPYMGaNYMqabZcvKu73-23">
+          <mxGeometry x="610" y="20" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qWPYMGaNYMqabZcvKu73-42" value="&lt;div&gt;根據商品銷售與庫存量自動補貨。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="qWPYMGaNYMqabZcvKu73-23">
+          <mxGeometry x="217" y="20" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qWPYMGaNYMqabZcvKu73-43" value="&lt;div&gt;根據商品銷售與消費者輪廓推薦店家引入新銷售商品品項。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeWidth=3;" vertex="1" parent="qWPYMGaNYMqabZcvKu73-23">
+          <mxGeometry x="217" y="90" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qWPYMGaNYMqabZcvKu73-44" value="&lt;div&gt;根據常客消費習慣推薦定期購買契約及宅配或店取服務。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeWidth=3;" vertex="1" parent="qWPYMGaNYMqabZcvKu73-23">
+          <mxGeometry x="89" y="20" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qWPYMGaNYMqabZcvKu73-45" value="&lt;div&gt;實現無人櫃台自助結帳系統。&lt;/div&gt;&lt;div&gt;A. 臉孔辨識(個資及認證可信度隱憂)&lt;/div&gt;&lt;div&gt;B. 結合APP補強上述缺陷&lt;/div&gt;&lt;div&gt;C. 結合第三方金流機構付款機制&lt;/div&gt;&lt;div&gt;D. 結合iCash式現金點數機制&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="qWPYMGaNYMqabZcvKu73-23">
+          <mxGeometry x="380" y="20" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qWPYMGaNYMqabZcvKu73-53" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="qWPYMGaNYMqabZcvKu73-23" source="qWPYMGaNYMqabZcvKu73-40" target="qWPYMGaNYMqabZcvKu73-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="-200" as="sourcePoint" />
+            <mxPoint x="320" y="-250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="670" y="200" />
+              <mxPoint x="277" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qWPYMGaNYMqabZcvKu73-60" value="&lt;div&gt;調整時段人力配置、商品陳列位置、進貨方式或促銷方案。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeWidth=3;" vertex="1" parent="qWPYMGaNYMqabZcvKu73-23">
+          <mxGeometry x="460" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qWPYMGaNYMqabZcvKu73-32" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="qWPYMGaNYMqabZcvKu73-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="380" as="sourcePoint" />
+            <mxPoint x="440" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="380" />
+              <mxPoint x="420" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qWPYMGaNYMqabZcvKu73-33" value="https://shorturl.at/jCSU7&lt;br&gt;https://shorturl.at/yCFMZ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="94.5" y="562" width="150" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="qWPYMGaNYMqabZcvKu73-38" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="qWPYMGaNYMqabZcvKu73-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="450" as="sourcePoint" />
+            <mxPoint x="170" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qWPYMGaNYMqabZcvKu73-39" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="qWPYMGaNYMqabZcvKu73-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="540" as="sourcePoint" />
+            <mxPoint x="380" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="337" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qWPYMGaNYMqabZcvKu73-41" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="qWPYMGaNYMqabZcvKu73-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="550" as="sourcePoint" />
+            <mxPoint x="380" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qWPYMGaNYMqabZcvKu73-46" value="https://shorturl.at/bpENV&lt;br&gt;https://www.ithome.com.tw/news/138555&lt;br&gt;https://shorturl.at/cfzT9&lt;br&gt;https://shorturl.at/emKV9" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="850" width="230" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="qWPYMGaNYMqabZcvKu73-49" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.925;entryY=-0.02;entryDx=0;entryDy=0;exitX=0.925;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="qWPYMGaNYMqabZcvKu73-28" target="qWPYMGaNYMqabZcvKu73-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="520" as="sourcePoint" />
+            <mxPoint x="380" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qWPYMGaNYMqabZcvKu73-50" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="qWPYMGaNYMqabZcvKu73-26" target="qWPYMGaNYMqabZcvKu73-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="420" as="sourcePoint" />
+            <mxPoint x="380" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="420" />
+              <mxPoint x="420" y="665" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qWPYMGaNYMqabZcvKu73-51" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="qWPYMGaNYMqabZcvKu73-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="660" as="sourcePoint" />
+            <mxPoint x="380" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="735" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qWPYMGaNYMqabZcvKu73-52" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="qWPYMGaNYMqabZcvKu73-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="550" as="sourcePoint" />
+            <mxPoint x="380" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qWPYMGaNYMqabZcvKu73-54" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="qWPYMGaNYMqabZcvKu73-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="820" as="sourcePoint" />
+            <mxPoint x="380" y="570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="209" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qWPYMGaNYMqabZcvKu73-55" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="qWPYMGaNYMqabZcvKu73-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="700" as="sourcePoint" />
+            <mxPoint x="340" y="700" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="337" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qWPYMGaNYMqabZcvKu73-57" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="qWPYMGaNYMqabZcvKu73-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="620" as="sourcePoint" />
+            <mxPoint x="455" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qWPYMGaNYMqabZcvKu73-59" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="qWPYMGaNYMqabZcvKu73-58">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="260" as="sourcePoint" />
+            <mxPoint x="380" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qWPYMGaNYMqabZcvKu73-62" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="qWPYMGaNYMqabZcvKu73-58" target="qWPYMGaNYMqabZcvKu73-60">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="750" as="sourcePoint" />
+            <mxPoint x="380" y="700" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="660" y="470" />
+              <mxPoint x="660" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qWPYMGaNYMqabZcvKu73-65" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="qWPYMGaNYMqabZcvKu73-63">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="530" as="sourcePoint" />
+            <mxPoint x="400" y="720" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="700" y="530" />
+              <mxPoint x="430" y="530" />
+              <mxPoint x="430" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qWPYMGaNYMqabZcvKu73-67" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qWPYMGaNYMqabZcvKu73-6" target="qWPYMGaNYMqabZcvKu73-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="510" as="sourcePoint" />
+            <mxPoint x="40" y="630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="50" y="800" />
+              <mxPoint x="490" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
